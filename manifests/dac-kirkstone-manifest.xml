@@ -31,7 +31,7 @@
 
   <project remote="yocto"
              name="meta-virtualization"
-         revision="dunfell"
+         revision="kirkstone"
              path="meta-virtualization"/>
 
   <project remote="yocto"
@@ -41,7 +41,7 @@
 
   <project remote="oe-org"
              name="meta-python2"
-        revision="dunfell"
+        revision="kirkstone"
             path="meta-python2"/>
 
   <project remote="github"
