@@ -36,7 +36,7 @@
 
   <project remote="yocto"
              name="meta-raspberrypi"
-         revision="dunfell"
+         revision="kirkstone"
              path="meta-raspberrypi"/>
 
   <project remote="oe-org"
@@ -46,7 +46,7 @@
 
   <project remote="github"
              name="meta-qt5/meta-qt5"
-         revision="dunfell"
+         revision="kirkstone"
              path="meta-qt5"/>
 
   <project remote="github"
@@ -63,7 +63,7 @@
 
   <project remote="github"
              name="rdkcentral/meta-dac-sdk"
-         revision="master"
+         revision="develop"
              path="meta-dac-sdk"/>
 
   <project remote="github"
