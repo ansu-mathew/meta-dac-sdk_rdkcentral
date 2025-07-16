@@ -51,8 +51,8 @@
 
   <project remote="github"
              name="kraj/meta-clang"
-         revision="8acc0b9c2a3942077d43f0baefc2841cc993fae1"
-         upstream="dunfell-clang12"
+         revision="c2e89dc7e1dfcc1bbe432afca2dc43d6560cb007"
+         upstream="kirkstone-clang12"
              path="meta-clang"/>
 
   <project remote="github"
